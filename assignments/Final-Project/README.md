@@ -17,7 +17,7 @@ Maximizing the margin reduces the risk of error.
 
 ## Logistic Regression Model:
 Logistic regression models work like SVMs except instead of drawing a line, LogReg aims to separate
-its data with a sigmoid function that looks like an S-curve.
+its data with a sigmoid function that looks like an S-curve.  
 <img src="https://storage.ning.com/topology/rest/1.0/file/get/2808358994?profile=original" height="200px"/>  
 The S-curve allows LogReg to create a more tailored fit to your data.
 
